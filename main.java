@@ -8,5 +8,6 @@ public class main
     System.out.println("output from java program");
     System.out.println(new Date());
     System.out.println("hello");
+    System.out.println("final commit")
   }
 }
